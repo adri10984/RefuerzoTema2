@@ -7,7 +7,7 @@ public class Ejercicio4 {
         int repetidos = 0;
         int maximo = 0;
         int moda = 0;
-        for (int i = 0; i < numeros.length - 1; i++) {
+        for (int i = 0; i < numeros.length; i++) {
             maximo = 0;
             for (int j = i + 1; j < numeros.length; j++) {
                 if (numeros[i] == numeros[j]) {

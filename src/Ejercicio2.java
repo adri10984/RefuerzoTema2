@@ -1,6 +1,6 @@
 public class Ejercicio2 {
     public static void main(String[] args) {
-        int dia = 10;
+        int dia = 19;
         int mes = 11;
 
         System.out.println(diasNochevieja(dia, mes));

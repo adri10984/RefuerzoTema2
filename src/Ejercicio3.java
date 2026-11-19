@@ -1,6 +1,6 @@
 public class Ejercicio3 {
     public static void main(String[] args) {
-        String num = "3433";
+        String num = "12345";
         String resultado = sumaDigitos(num);
         System.out.println(resultado);
 
